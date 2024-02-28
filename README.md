@@ -9,5 +9,4 @@ https://github.com/Miyjy/OpenAI_GPT4_ChatGPT_LangChain
 
 ## HTMLs, PDFs
 
-TBA
-
+https://github.com/MDASH-shinshu/mdash-shinshu.github.io/tree/main/OpenAI_GPT4_ChatGPT_LangChain
